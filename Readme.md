@@ -31,7 +31,7 @@ MOVIEANALYSIS/
 │
 ├── data/                  # Сырые данные (MovieLens CSV: links, movies, ratings, tags)
 ├── etl/                   # Скрипты загрузки данных и парсинга
-├── notebook/             # Аналитический отчет (Jupyter Notebook с витринами)
+├── notebook/              # Аналитический отчет (Jupyter Notebook с витринами)
 ├── sql/                   # SQL-скрипты (инициализация схемы БД и создание витрин данных)
 ├── tests/                 # Модульные тесты (Pytest для проверки качества витрин и данных)
 ├── dwh.sqlite             # Локальное хранилище данных (SQLite Data Warehouse)
