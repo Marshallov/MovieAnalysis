@@ -1,3 +1,8 @@
 .DS_Store
 
 venv
+
+links.csv
+movies.csv
+ratings.csv
+tags.csv
